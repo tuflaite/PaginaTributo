@@ -4,11 +4,20 @@ h1 {
     color: crimson;
 }
 h2{
-    image-rendering: optimizeSpeed;
-    image-resolution: 
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
-h4 {
+h3 {
     text-align: left;
     font-family: text'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1,5rem;
+}
+h4{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ 
 }
